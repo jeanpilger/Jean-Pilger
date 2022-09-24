@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[70007-web-development-design.gif](https://assets8.lottiefiles.com/packages/lf20_8zzfnwv8.json)">
+<img align="right" alt="Coding" width="400" src="70007-web-development-design.gif">
 
 <h1 align="center">Hi 👋, I'm Jean Pilger</h1>
 <h3 align="center">A passionate fullstack developer PHP and Laravel from Brasil</h3>
